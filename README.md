@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rizqihidayat
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning digital skola
+- 👀 I’m interested in Data and Django Python
+- 🌱 I’m currently working at PT Vads Indonesia
 
 <!---
 rizqihidayat/rizqihidayat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
